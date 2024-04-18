@@ -1,0 +1,6 @@
+* {box-sizing: border-box;
+margin:auto;}
+.line-breaker {
+border: 1px solid brown;
+margin: 25px;
+padding: 10px;}
